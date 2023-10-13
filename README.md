@@ -1,3 +1,3 @@
-# weather_app_cutbit
+# weather_app_cubit
 
 A new Flutter project.
